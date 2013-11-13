@@ -15,4 +15,5 @@ matrix.o: matrix.cpp matrix.h
 .PHONY: clean	
 
 clean:
+# TODO Rest wegraeumen
 	rm $(TARGET) *.o 
